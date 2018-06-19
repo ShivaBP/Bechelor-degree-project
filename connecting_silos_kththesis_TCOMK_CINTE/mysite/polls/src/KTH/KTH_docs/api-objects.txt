@@ -1,0 +1,6 @@
+polls.src.KTH	polls.src.KTH-module.html
+polls.src.KTH.parse_profile	polls.src.KTH.parse_profile-module.html
+polls.src.KTH.parse_profile.configuration	polls.src.KTH.parse_profile-module.html#configuration
+polls.src.KTH.parse_profile.baseUrl	polls.src.KTH.parse_profile-module.html#baseUrl
+polls.src.KTH.parse_profile.get_user_info	polls.src.KTH.parse_profile-module.html#get_user_info
+polls.src.KTH.parse_profile.payload	polls.src.KTH.parse_profile-module.html#payload
